@@ -29,7 +29,7 @@ My code is a program that breaks SHA1 hashes using brute force. The code importe
       - Found Hash
       - Number of tries: 217
       - The password is  slayer
-      - Total running time: 11.550734519958496
+       - Total running time: 11.550734519958496
 
 **Bonus Question Idea**
       I could hash all the passwords and sort all the values in dictionary order (A-z)(0-9). When I get the input from the user, I can thus save time not going through every value one by one, but compare the input value with the middle element of the list and decide to go lower or higher that the middle element (applying divide and conquer, binary search). By doing that I could reduce the running time of my program. 
