@@ -11,11 +11,11 @@ My code is a program that breaks SHA1 hashes using brute force. The code importe
   
 **Output Answers**
   a. 
-  		- b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
-  		- Found Hash
-      - Number of tries: 16
-      - The password is  letmein
-      - Total running time: 2.6682496070861816
+		- b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
+  	- Found Hash
+    - Number of tries: 16
+    - The password is  letmein
+    - Total running time: 2.6682496070861816
 
   b. 
 			- 801cdea58224c921c21fd2b183ff28ffa910ce31
