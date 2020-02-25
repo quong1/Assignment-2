@@ -10,7 +10,7 @@ My code is a program that breaks SHA1 hashes using brute force. The code importe
   2. Run the content on any Python IDE
   
 **Output Answers**
-   a. 
+  a.
  - b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
  - Found Hash
  - Number of tries: 16
