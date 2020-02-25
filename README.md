@@ -6,7 +6,7 @@
 My code is a program that breaks SHA1 hashes using brute force. The code imported three libraries *time*, *urlopen* and *hashlib*. The *time* library shows the actual time to break the hash. The *urlopen* library is used to open a list of common passwords online. The *hashlib* library is used to get the hashing algorithm SHA1. The program requires user to input a string as the hash value of a password. After that, the program shows numbers of tries before reaching the correct password. 
 
 **Instructions**
-  1. Download the Assignment.py file
+  1. Download the Assignment2.py file
   2. Run the content on any Python IDE
   
 **Output Answers**
