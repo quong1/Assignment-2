@@ -33,7 +33,7 @@ def guess2(y,z):
     for x in array:
         saltHash = concat + x
         hashedGuess = hashlib.sha1(bytes(saltHash, 'utf-8')).hexdigest()
-        if ( hashedGuess == mainHash ):
+        if hashedGuess == mainHash:
             print("\tNumber of Attempts: " + count)
             print("\tMatch Word: " + y + x + "\n")
             break;
