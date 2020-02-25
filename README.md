@@ -1,4 +1,4 @@
-# Assignment-2
+# Assignment-2 by Quan Uong
 # Blockchain & Applications
 
 **About my code**
